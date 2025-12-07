@@ -129,24 +129,6 @@ The pipeline generates comprehensive visualizations:
 - Matplotlib
 - Google Colab (optional, for GPU)
 
-## 📝 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{latent-rl-forecasting,
-  author = {Your Name},
-  title = {Pattern-Conditioned Latent RL for Time-Series Forecasting},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/latent-rl-forecasting}
-}
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -161,5 +143,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please open an issue or contact [djdj447937@naver.com]
 
 ---
-
-**⭐ Star this repo if you find it useful!**

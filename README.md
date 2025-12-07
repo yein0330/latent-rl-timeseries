@@ -130,10 +130,6 @@ The pipeline generates comprehensive visualizations:
 - Matplotlib
 - Google Colab (optional, for GPU)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - ETT dataset from [ETDataset](https://github.com/zhouhaoyi/ETDataset)
